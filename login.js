@@ -1,1 +1,1 @@
-console.log("loginpage");
+console.log("login page");
